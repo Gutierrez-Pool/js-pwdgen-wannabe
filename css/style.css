@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: lightslategray;
+}
+
+#password {
+    font-weight: bold;
+    padding-bottom: 30px;
+}
